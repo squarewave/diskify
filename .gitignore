@@ -42,6 +42,9 @@
 *.idb
 *.pdb
 
+# Diskify output
+*.diskify
+
 # Kernel Module Compile Results
 *.mod*
 *.cmd
